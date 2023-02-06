@@ -45,14 +45,14 @@
 .col-title{
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: Big Shoulders Display;
+    font-family: 'Big Shoulders Display';
     font-weight: 700;
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
 }
 
 .col-desc {
-    font-family: Lexend Deca;
+    font-family: 'Lexend Deca';
     font-size: 15px;
     margin-bottom: 40px;
     color:hsla(0, 0%, 100%, 0.75);
